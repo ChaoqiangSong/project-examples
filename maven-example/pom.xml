@@ -73,12 +73,12 @@
         <repository>
             <id>central</id>
             <name>ecs-jfrog-platform-releases</name>
-            <url>http://39.102.81.1:8081/artifactory/mvn-repository-virtual</url>
+            <url>http://39.102.81.1:8081/artifactory/maven-virtual-GA</url>
         </repository>
         <snapshotRepository>
             <id>snapshots</id>
             <name>ecs-jfrog-platform-snapshots</name>
-            <url>http://39.102.81.1:8081/artifactory/mvn-repository-virtual</url>
+            <url>http://39.102.81.1:8081/artifactory/maven-virtual-SNAPSHOT</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
